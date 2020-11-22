@@ -1,4 +1,6 @@
 # Restaurant Finder
+
+## Description
 This app is written in C++ and was designed to show the different restaurants located in Colorado organized by city and cuisine. The app allows you to show connected cities, display the restaurants for each city, as well as allow the user to travel from city to city. Each restaurant has a short description labeled with ratings and the type of cuisine it is.
 
 ## Installation
