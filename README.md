@@ -6,6 +6,6 @@ This app is written in C++ and was designed to show the different restaurants lo
 2. Unzip the downloaded zip file
 3. Navigate to the Restaurant Finder folder and open up a terminal 
 4. Compile with the following line 
-* **g++ -std=c++11 .\Cities.hpp .\Cities.cpp .\main.cpp**
+  * **g++ -std=c++11 .\Cities.hpp .\Cities.cpp .\main.cpp**
 5. To execute the app, run
-* **.\a.exe**
+  * **.\a.exe**
